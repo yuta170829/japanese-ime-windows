@@ -1,0 +1,10 @@
+# kana-ime: セットアップで作られるもの・個人のファイル
+kana-ime/models/
+kana-ime/*.pkl
+kana-ime/autosave.txt
+kana-ime/dev/data/
+__pycache__/
+*.pyc
+
+# azooKey
+azookey-setup.exe
