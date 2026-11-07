@@ -121,3 +121,8 @@ Microsoft IME に戻すときも、Windowsキー + Space です。
 | `setup_helper.ps1` | 補助の本体。中身はメモ帳で読めます。`-DryRun` を付けると確認だけして何も変更しません |
 
 azooKey-Windows 本体はこのフォルダに入っていません。必ず公式の配布ページから入手してください。
+
+## ライセンス
+
+このガイドと補助スクリプトは **GPL-3.0** です (全文は `LICENSE`)。Copyright (C) 2026 yuta170829
+azooKey-Windows 本体は、作者 (fkunn1326 さん) のライセンスに従います。
